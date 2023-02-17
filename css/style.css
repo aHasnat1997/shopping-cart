@@ -4,7 +4,7 @@
   margin: 0px;
 }
 
-.banner{
-  height: 20rem;
-  background: linear-gradient(#00000022,#00000050),url(../img/banner.jpg) no-repeat center;
+.banner {
+  height: 30rem;
+  background: linear-gradient(#00000022, #00000050), url(../img/banner.jpg) no-repeat center;
 }
